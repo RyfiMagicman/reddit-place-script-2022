@@ -1,6 +1,6 @@
 {
     "image_path": "DLogo.png",
-    "image_start_coords": [296, 1172],
+    "image_start_coords": [319, 1172],
     "thread_delay": 2,
     "unverified_place_frequency": false,
     "compact_logging": true,
@@ -13,7 +13,19 @@
     "workers": {
         "ryfispam": {
             "password": "SensoryOverload99",
-            "start_coords": [0, 0]
+            "start_coords": [0, 1]
+        },
+        "BartsEggs": {
+            "password": "ImJustALittleGuy3",
+            "start_coords": [0, 2]
+        },
+        "AddnBlast": {
+            "password": "JamPackedJamJar9",
+            "start_coords": [0, 3]
+        },
+        "Doortal": {
+            "password": "WellWellWheel11",
+            "start_coords": [0, 4]
         }
     }
 }
