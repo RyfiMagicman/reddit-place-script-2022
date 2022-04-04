@@ -1,7 +1,7 @@
 {
     "image_path": "DLogo.png",
     "image_start_coords": [825, 166],
-    "thread_delay": 2,
+    "thread_delay": 10,
     "unverified_place_frequency": false,
     "compact_logging": true,
     "using_tor": false,
