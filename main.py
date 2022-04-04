@@ -1,4 +1,5 @@
 import math
+import os
 
 import requests
 import json
@@ -27,6 +28,7 @@ class PlaceClient:
         self.json_data = utils.get_json_data(self, config_path)
         self.pixel_x_start: int = self.json_data["image_start_coords"][0]
         self.pixel_y_start: int = self.json_data["image_start_coords"][1]
+        self.json_data["workers"] = json.loads(os.environ['WORKERS'])
 
         # In seconds
         self.delay_between_launches = (
