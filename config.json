@@ -1,6 +1,6 @@
 {
-    "image_path": "image.jpg",
-    "image_start_coords": [741, 610],
+    "image_path": "DLogo.png",
+    "image_start_coords": [296, 1172],
     "thread_delay": 2,
     "unverified_place_frequency": false,
     "compact_logging": true,
@@ -11,12 +11,8 @@
     "tor_delay": 5,
     "use_builtin_tor": true,
     "workers": {
-        "worker1username": {
-            "password": "password",
-            "start_coords": [0, 0]
-        },
-        "worker2username": {
-            "password": "password",
+        "ryfispam": {
+            "password": "SensoryOverload99",
             "start_coords": [0, 0]
         }
     }
